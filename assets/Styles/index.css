@@ -32,6 +32,7 @@
 html{
     box-sizing: border-box;
     scrollbar-color: #393e46 var(--primarycolor);
+    scrollbar-width: thin;
 }
 
 *,
